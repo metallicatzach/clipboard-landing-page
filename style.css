@@ -10,9 +10,7 @@ body {
     background-repeat:no-repeat;
 }
 .container_1 {
-    position:absolute;
-    top:125px;
-    left:340px;
+    margin:200px;
     width:750px;
     height:500px;
 }
@@ -167,11 +165,3 @@ body {
 
 
 
-
-<div class="container_6">
-  <img src="images/logo-google.png" alt="" class="company">
-  <img src="images/logo-ibm.png" alt="" class="company">
-  <img src="images/logo-microsoft.png" alt="" class="company">
-  <img src="images/logo-hp.png" alt="" class="company">
-  <img src="images/logo-vector-graphics.png" alt="" class="company">
-</div>
