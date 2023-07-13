@@ -103,3 +103,75 @@ body {
 .container_4 {
     text-align: center;
 }
+
+.container_5 {
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+    height:100%;
+}
+.box3 {
+    height:300px;
+    width:380px;
+    border:1px solid;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.logo{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border:1px solid;
+}
+.logo  {
+    width:40px;
+    height:40px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+.container_6 {
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+}
+.company {
+    margin:0 70px;
+    width:150px;
+    height:100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="container_6">
+  <img src="images/logo-google.png" alt="" class="company">
+  <img src="images/logo-ibm.png" alt="" class="company">
+  <img src="images/logo-microsoft.png" alt="" class="company">
+  <img src="images/logo-hp.png" alt="" class="company">
+  <img src="images/logo-vector-graphics.png" alt="" class="company">
+</div>
