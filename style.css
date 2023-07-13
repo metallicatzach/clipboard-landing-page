@@ -87,3 +87,19 @@ body {
     color:hsl(201, 11%, 66%);
     line-height: 1.5;
 }
+
+
+.container_3_content {
+    display:flex;
+    flex-direction: row;
+}
+.container_box2 {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.container_4 {
+    text-align: center;
+}
